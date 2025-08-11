@@ -1,6 +1,3 @@
-My journey learning C — structured notes, examples, and projects.
-
-
 Welcome to my personal **C Programming Learning Documentation**!  
 This repository is where I organize and document everything I’ve learned about the C programming language — from the basics to more advanced topics.  
 
