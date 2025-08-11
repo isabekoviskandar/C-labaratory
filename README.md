@@ -1,3 +1,5 @@
+Learning and documenting everything about the C programming language.
+
 # 📚 C Language Learning Journey
 
 Welcome to my personal **C Programming Learning Documentation**!  
